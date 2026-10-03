@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of treefiction/polls.** Not for installation: use [Packagist](https://packagist.org/packages/treefiction/polls) or the [upstream repository](https://github.com/Shahiem/flarum-poll).
 
-**0** versions archived · Latest: [`1.3.4`](https://github.com/flarchive/treefiction-polls/tree/archive/v1.3.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**18** versions archived · Latest: [`1.3.4`](https://github.com/flarchive/treefiction-polls/tree/archive/v1.3.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-03-02 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-03-29 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v0.1.1) |
+| `1.0.0` | 2018-04-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.0.0) |
+| `1.0.0-beta.1` | 2018-04-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.0.0-beta.1) |
+| `1.1.0` | 2018-04-29 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.1.0) |
+| `1.1.1` | 2018-05-03 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.1.1) |
+| `1.2.0` | 2018-05-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.2.0) |
+| `1.2.1` | 2018-05-07 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.2.1) |
+| `1.2.2` | 2018-05-07 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.2.2) |
+| `1.2.3` | 2018-05-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/treefiction-polls/tree/archive/v1.2.3) |
+
+[View all 18 versions](https://github.com/flarchive/treefiction-polls/tags)
 
 Catalog entry: [packages/treefiction-polls.json](https://github.com/flarchive/archive-index/blob/main/packages/treefiction-polls.json)
 
